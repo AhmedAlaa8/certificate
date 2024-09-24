@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Lateef';
+    src: url('fonts/Lateef-Bold.eot');
+    src: url('fonts/Lateef-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Lateef-Bold.woff2') format('woff2'),
+         url('fonts/Lateef-Bold.woff') format('woff'),
+         url('fonts/Lateef-Bold.ttf')  format('truetype'),
+         url('fonts/Lateef-Bold.svg#Lateef') format('svg');
+}
